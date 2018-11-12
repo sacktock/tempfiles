@@ -1,0 +1,40 @@
+
+html *
+{
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size:1.2vw
+}
+
+h1 {
+	background-color: green;
+	border: 10px solid green;
+	font-size:6vw
+}
+
+p {
+	color: #444444;
+	
+}
+
+body {
+	border: 2vw solid #FFFFFF;
+}
+
+h1 {
+	color: white;
+}
+
+strong {
+	font-size: 1.25vw;
+	color: #000000;
+}
+
+li {
+	color: #444444;
+ 
+}
+
+a {
+	color: blue;
+}
